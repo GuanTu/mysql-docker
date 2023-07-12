@@ -1,5 +1,7 @@
 ![logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
 
+> fork原因：对MySQL 5.7添加多主多从复制功能
+
 What is MySQL?
 --------------
 
